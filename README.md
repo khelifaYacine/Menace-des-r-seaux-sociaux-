@@ -7,7 +7,8 @@ Généré à l’aide de techniques de données synthétiques avancées à l’a
 
 ## Description des colonnes
 UserID : Identifiant unique attribué à chaque utilisateur.
-Age : l’âge de l’utilisateur. - Sexe : le sexe de l’utilisateur (par exemple, homme, femme, non-binaire).
+Age : l’âge de l’utilisateur. 
+Sexe : le sexe de l’utilisateur (par exemple, homme, femme, non-binaire).
 Emplacement : Emplacement géographique de l’utilisateur.
 Revenu : le niveau de revenu de l’utilisateur.
 Dette : Montant de la dette de l’utilisateur.
